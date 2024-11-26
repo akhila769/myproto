@@ -1,4 +1,4 @@
-module github.com/jagga345/myproto
+module github.com/akhila769/myproto
 
 go 1.23.1
 
